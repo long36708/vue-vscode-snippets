@@ -85,5 +85,8 @@
         "path": "./snippets/nuxt-config.json"
       }
     ]
+  },
+  "volta": {
+    "node": "22.19.0"
   }
 }
